@@ -85,7 +85,7 @@ a.navbar-brand {
     font-size: 2vw;
 }
 
-.card {
+.makanan .card, .minuman .card {
     display : flex;
     flex-direction: row;
 }
@@ -98,6 +98,7 @@ a.navbar-brand {
 */
 .carousel--div {
     max-width: 75vw;
+    margin: auto;
 }
 
 .carousel {
@@ -133,4 +134,29 @@ a.navbar-brand {
         display: flex;
         flex-direction: column;
     }
+}
+
+
+.location {
+    margin-right: 10vw;
+}
+
+.location iframe {
+    width: 30vw;
+    height: 20vw;
+}
+
+.address {
+    margin-left: auto;
+}  
+
+
+footer {
+    padding: 30px 50px;
+    background-color: #4F4F4F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    color: white;
 }
