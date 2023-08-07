@@ -17,8 +17,10 @@ main {
     font-family: "Poppins" sans-serif;
 }
 
-.navbar-nav > .nav-link {
+.navbar-nav {
     color: #C67C4E;
+    margin-left: auto;
+    padding-right: 30px;
 }
 
 .nav-link {
@@ -82,6 +84,7 @@ a.navbar-brand {
 
 .carousel--div {
     max-width: 75vw;
+    margin: auto;
 }
 
 .carousel {
@@ -107,3 +110,6 @@ a.navbar-brand {
     padding: 5px;
 }
 
+.footer {
+    background-color: #4F4F4F;
+}
