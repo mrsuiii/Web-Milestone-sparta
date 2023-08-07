@@ -1,25 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="list.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Felipa&display=swap" rel="stylesheet">
     <title>Web Milestone</title>
 </head>
 <body>
     <header>
-    <div class="logo"><h1>nama website</h1></div>
-    <div class="container">
-        <form action ="" class="search-bar">
-        <input type="text" name ="search" placeholder="pilih restaurant">
-        <button type="submit"><i class="fa fa-search"></i></button>
-        </form>
-        <button name="filter">Filter</button>
-        <button name="shorter">Urutkan</button>
-    </div>
+        <nav class="navbar">
+            <img src="images/restaurantlogo.jpg" class="nav--img">
+            <div class="logo"><h2>Tamansari</h2><h3>Food Fest</h3></div>
+            <div class="scroll-container">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+            </div>
+            <ul class="nav--list">
+                <li>Home</li>
+                <li>Promo</li>
+                <li>Our restaurant</li>
+                <li>Cart</li>
+                <li>Location</li>
+            </ul>
+        </nav>
     </header>
     <main>
+        <div>
+            <div class="main--banner">
+                <img src="images/eating-ramen.png">
+                <div>
+                    <span>We're on a </span><span class="bold">seafood</span><span> diet</span>
+                </div>
+            </div>
+        </div>
         <section class="restaurant-list">
             <div class="restaurant-logo"><a href="https://www.w3schools.com/"><img src="images/restaurantlogo.jpg" width=60px></a></div>
             <h1>Nama restaurant</h1>
@@ -31,5 +51,6 @@
             <h1>Nama restaurant</h1>
         </section>
     </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 </body>
 </html>

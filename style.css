@@ -1,0 +1,109 @@
+body {
+    font-family: "Poppins" sans-serif;
+}
+
+main {
+    margin: 150px 30px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.navbar {
+    background: #4F4F4F;
+    color: #d6cfca !important;
+    box-shadow: 4px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: "Poppins" sans-serif;
+}
+
+.navbar-nav > .nav-link {
+    color: #C67C4E;
+}
+
+.nav-link {
+    color: #C67C4E;
+}
+
+a.navbar-brand {
+    margin-right: auto;
+    align-items: center;
+}
+
+
+.logo--image {
+    height: 70px;
+}
+
+.logo > h2 {
+    margin: 0;
+    color: #C67C4E;
+}
+
+.logo > h3 {
+    margin: 0;
+    font-family: 'felipa';
+    color: white;
+}
+
+.main--banner {
+    max-height: 400px;
+    display: flex;
+    align-items: center;
+    color: #C67C4E;
+    font-size: 3vw;
+    font-family: "Sora";
+    font-weight: 400;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.main--banner img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    margin-right: 30px;
+}
+
+.banner--right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+.banner--right > a {
+    width: 50%;
+    background-color: #C67C4E;
+    border: none;
+    font-size: 2vw;
+}
+
+.carousel--div {
+    max-width: 75vw;
+}
+
+.carousel {
+    max-height: 20%;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.content--section {
+    margin-top: 30px
+}
+
+.section--name {
+    font-size: 2vw;
+    color: #DEDEDE;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #808080;
+    border-radius: 5px;
+    width: 30vw;
+    padding: 5px;
+}
+
