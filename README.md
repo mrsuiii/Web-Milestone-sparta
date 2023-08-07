@@ -25,6 +25,6 @@ CSS
 8. Salsabila A (19622312)
 9. Muhammad Rifa (19622163)
 10. Aurelius Justin Philo F (19622149)
-11. Eldwin Pradipta (19622162)
+11. Eldwin Pradipta (19622162) 
 12. Regan Adiesta Mahendra (19622271)
 13. Chelvadinda (19622276)
