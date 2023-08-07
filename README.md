@@ -10,10 +10,10 @@ CSS
 
 # Cara menggunakan program
 1. User masuk ke website 
-2. User dapat melihat restoran-restoran yang terdaftar beserta menunya
-3. Pada bagian landing page terdapat tombol 'Get Started'. Ketika user mengklik tombol tersebut, maka user akan diarahkan ke page yang berisi list restoran yang tersedia
-3. User memilih restoran yang diinginkan
-4. User akan diarahkan ke website resmi dari restoran yang dituju
+2. Pada bagian landing page terdapat tombol 'Get Started'. Ketika user mengklik tombol tersebut, maka user akan diarahkan ke page yang berisi list restoran yang tersedia
+3. User dapat melihat restoran-restoran yang terdaftar beserta menunya
+4. User memilih restoran yang diinginkan
+5. User akan diarahkan ke website resmi dari restoran yang dituju
 
 # Identitas Pembuat
 1. Dedy Hofmanindo Saragih (19622150)
