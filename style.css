@@ -6,6 +6,11 @@ main {
     margin: 150px 30px;
 }
 
+.isi img {
+    width : 25%;
+
+}
+
 .bold {
     font-weight: bold;
 }
@@ -17,10 +22,8 @@ main {
     font-family: "Poppins" sans-serif;
 }
 
-.navbar-nav {
+.navbar-nav > .nav-link {
     color: #C67C4E;
-    margin-left: auto;
-    padding-right: 30px;
 }
 
 .nav-link {
@@ -82,9 +85,19 @@ a.navbar-brand {
     font-size: 2vw;
 }
 
+.card {
+    display : flex;
+    flex-direction: row;
+}
+
+
+/*.card-body {
+    padding-top: 10%;
+    top : 100%;
+}
+*/
 .carousel--div {
     max-width: 75vw;
-    margin: auto;
 }
 
 .carousel {
@@ -110,29 +123,14 @@ a.navbar-brand {
     padding: 5px;
 }
 
-.location {
-    margin-right: 10em;
-    
+.makanan, .minuman {
+    margin-left: 10px;
 }
 
-.location iframe {
-    width: 50vw;
-    height: 50vw;
-}
+@media only screen and (max-width: 700px) {
 
-.addres{
-    margin-left: 1.5em;
-}
-.addres p{
-    font-size: 1.5em;
-}
-footer {
-    background-color: #4F4F4F;
-    display: flex;
-    flex-direction: horizontal;
-    padding: 2em 8em;
-    color: white;
-}
-.about-us{
-    margin-top: 7em;
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
 }
