@@ -110,6 +110,29 @@ a.navbar-brand {
     padding: 5px;
 }
 
-.footer {
+.location {
+    margin-right: 10em;
+    
+}
+
+.location iframe {
+    width: 50vw;
+    height: 50vw;
+}
+
+.addres{
+    margin-left: 1.5em;
+}
+.addres p{
+    font-size: 1.5em;
+}
+footer {
     background-color: #4F4F4F;
+    display: flex;
+    flex-direction: horizontal;
+    padding: 2em 8em;
+    color: white;
+}
+.about-us{
+    margin-top: 7em;
 }
