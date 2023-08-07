@@ -2,7 +2,7 @@
 Project web
  
 # Deskripsi singkat
-Website ini dibuat sebagai landing page yang akan mengarahkan users ke web resto-resto resmi yang terdaftar. Dalam website ini akan ditampilkan restoran-restoran beserta menunya
+Foodcourt merupakan salah tempat utama yang dituju oleh masyarakat jika ingin membeli makan karena banyaknya pilihan restoran dan menu yang tersedia. Namun, proses memesan makanan di foodcourt masih kurang efisien dan memakan waktu, terlebih pelanggan harus berpindah dari satu restoran ke restoran lainnya untuk melihat menu dan memesan makan. Dengan ini, dibuat website untuk mengatasi tantangan tersebut. Website ini dibuat sebagai landing page yang akan mengarahkan users ke web resto-resto resmi yang terdaftar. Dalam website ini akan ditampilkan restoran-restoran beserta menunya.
 
 # Reqruitment Program
 HTML
@@ -47,6 +47,7 @@ Laporan :
 1. M Reffy Haykal (19622259)
 2. Regan Adiesta Mahendra (19622271)
 3. Dedy Hofmanindo Saragih (19622150)
+4. Salsabila Azzahra (19622312)
 
 Ketua kelompok / Project Manager :
 1. Dedy Hofmanindo Saragih (19622150)
