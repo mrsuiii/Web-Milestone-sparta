@@ -30,4 +30,24 @@ CSS
 12. Regan Adiesta Mahendra (19622271)
 13. Chelvadinda (19622276)
 
+# Kontribusi Peserta
+UI/UX : 
+1.  Nabila Shikoofa Muida (19622083)
+2.  Eldwin Pradipta (19622162)
+3.  Muhammad Rifa (19622163
+4.  Bryan Cornelius (19622110)
+
+WebDev : 
+1. Saad Abdul H (19622131)
+2. Emery Fathan Z (19622007)
+3. Renaldy Arief Susanto (19622094)
+4. Aurelius Justin Philo F (19622149)
+
+Laporan : 
+1. M Reffy Haykal (19622259)
+2. Regan Adiesta Mahendra (19622271)
+3. Dedy Hofmanindo Saragih (19622150)
+
+Ketua kelompok / Project Manager :
+1. Dedy Hofmanindo Saragih (19622150)
     
